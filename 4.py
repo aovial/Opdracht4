@@ -12,7 +12,7 @@
 
 #pip install streamlit_folium
 #pip install statsmodels
-pip install openpyxl
+!pip install openpyxl
 
 
 # In[2]:
