@@ -37,7 +37,7 @@ from folium.plugins import TimeSliderChoropleth
 import streamlit as st
 import streamlit_folium as st_folium
 from streamlit_folium import folium_static
-import openpyxl
+#import openpyxl
 #import statsmodels.api as sm
 
 
